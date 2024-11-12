@@ -1,7 +1,6 @@
 # Cartoonizer
 
 
-
 > Convert images and videos into a cartoon!
 
 The webapp is deployed here - https://cartoonize-lkqov62dia-de.a.run.app
